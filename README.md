@@ -6,7 +6,6 @@ Computer Science student focused on **Machine Learning**, **Deep Learning**, and
 
 ## 📌 About Me
 
-- 📍 Based in Colombia  
 - 🧪 Focused on **Deep Learning** and **Predictive Modeling**  
 - 🛠️ Strong emphasis on **clean, reproducible code** and structured data pipelines (imputation, scaling, feature engineering)  
 - ⚙️ Stack: **Python (PyTorch, Scikit-learn), SQL (MySQL), Power BI**  
@@ -54,16 +53,6 @@ Computer Science student focused on **Machine Learning**, **Deep Learning**, and
 | **Data** | NumPy, Pandas |
 | **Visualization** | Power BI, Matplotlib, Seaborn |
 | **Databases** | MySQL |
-
----
-
-## 📌 Highlights
-
-- 📈 Focus on building reproducible ML pipelines  
-- 🧠 Implementation of deep learning architectures from scratch  
-- 📊 Strong use of visualization for model evaluation  
-
----
 
 ## 📫 Connect with me
 
